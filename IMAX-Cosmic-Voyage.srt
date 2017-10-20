@@ -1,0 +1,724 @@
+﻿1
+00:00:03,340 --> 00:00:20,000
+ 
+
+2
+00:00:25,340 --> 00:00:30,000
+<i>Với 5 giác quan, con người
+khám phá vũ trụ xung quanh...</i>
+
+3
+00:00:30,340 --> 00:00:34,938
+<i>...và gọi chuyến thám hiểm đó
+là khoa học.</i>
+
+4
+00:01:20,800 --> 00:01:25,826
+Dịch phụ đề: NQK
+hdvnbits.org
+
+5
+00:01:34,800 --> 00:01:37,826
+Sự vật quanh ta không phải lúc nào
+cũng như ta tưởng.
+
+6
+00:01:54,589 --> 00:01:58,822
+hàng ngày, ta dùng thước đo đơn giản
+là chính cơ thể ta....
+
+7
+00:01:58,928 --> 00:02:01,692
+...để xác định xem
+sự vật xung quanh to, hay nhỏ.
+
+8
+00:02:12,477 --> 00:02:14,968
+Nhưng còn những thế giới
+ngoài kia thì sao?
+
+9
+00:02:17,482 --> 00:02:21,044
+Thế nào mới thực sự là to, nhỏ?
+
+10
+00:02:29,462 --> 00:02:32,796
+ta cần phải khám phá,
+phải quan sát....
+
+11
+00:02:33,200 --> 00:02:36,636
+...để hiểu được cái thế giới rộng lớn
+mà ta gọi là vũ trụ:
+
+12
+00:02:37,738 --> 00:02:40,537
+Đây là một trong những cuộc phiêu lưu
+lớn của con người.
+
+13
+00:02:55,692 --> 00:03:00,494
+Khi ta nhì ra chân trời phía xa,
+có thể ta tự hỏi....
+
+14
+00:03:01,099 --> 00:03:04,364
+...ta đang ở đâu trong vũ trụ này?
+
+15
+00:03:07,940 --> 00:03:10,306
+Tà là những kẻ du hành...
+
+16
+00:03:10,376 --> 00:03:13,402
+...trên con đường khám phá bất tận.
+
+17
+00:03:53,391 --> 00:03:57,419
+Hơn 25 thế kỷ trước,
+trên giữa các hòn đảo Hy Lạp...
+
+18
+00:03:57,496 --> 00:04:01,558
+...nơi gặp nhau của Châu Phi,
+Châu Á và Châu Âu...
+
+19
+00:04:01,969 --> 00:04:06,463
+...các triết gia đã dựng nên các giả thuyết
+về thế giới họ sống.
+
+20
+00:04:10,278 --> 00:04:13,247
+Những đợt triều dâng, những con sóng...
+
+21
+00:04:13,581 --> 00:04:15,174
+...đều có thể được giải thích.
+
+22
+00:04:45,752 --> 00:04:50,452
+Có triết gia đã đưa ra ý tưởng
+rằng Trái đất quay quanh Mặt trời.
+
+23
+00:04:53,994 --> 00:04:58,227
+Có người khác lại cho rằng mọi thứ
+nhân tạo hay tự nhiên...
+
+24
+00:04:58,533 --> 00:05:02,060
+...đều tạo ra từ các hạt
+bé nhỏ mắt thường không thấy được.
+
+25
+00:05:06,809 --> 00:05:09,779
+Có người lại ước tính kích thước
+của Trái đất và Mặt trăng...
+
+26
+00:05:09,846 --> 00:05:12,940
+...tính cả khoảng cách giữa
+Trái đất và Mặt trăng...
+
+27
+00:05:13,016 --> 00:05:14,677
+...và lý do tại sao cả hai đều hình cầu.
+
+28
+00:05:17,822 --> 00:05:21,986
+Nhưng phải mất nhiều thế kỷ thì ta
+mới có được công cụ mở rộng tầm nhìn...
+
+29
+00:05:22,193 --> 00:05:25,220
+...và khẳng định sự thông thái
+của những triết gia này.
+
+30
+00:05:27,166 --> 00:05:28,827
+Khi chưa có được công cụ...
+
+31
+00:05:28,901 --> 00:05:33,032
+...thì người ta nhìn lên bầu trời
+đặt tên cho những vì sao.
+
+32
+00:05:34,074 --> 00:05:38,774
+Đa phần cho rằng Trái đất là
+trung tâm của một vũ trụ bất biến.
+
+33
+00:06:13,252 --> 00:06:15,083
+Hai nghìn năm trôi qua...
+
+34
+00:06:15,154 --> 00:06:18,955
+...rồi có một bước đột phá cách mạng
+của một giáo sư toán học...
+
+35
+00:06:19,026 --> 00:06:22,325
+...sống trong thành phố biển cổ xưa Venice.
+
+36
+00:06:23,497 --> 00:06:26,956
+Năm 1609, Galileo Galilei...
+
+37
+00:06:27,201 --> 00:06:31,194
+...đã đưa ra một công cụ
+mà người ta sau đó gọi là kính viễn vọng.
+
+38
+00:06:35,377 --> 00:06:37,242
+Từ các tháp chuông cao nhất...
+
+39
+00:06:37,312 --> 00:06:39,941
+...ông đã cho thấy rằng thiết bị đó
+có thể xác định các con thuyền đang đến...
+
+40
+00:06:40,016 --> 00:06:43,247
+...hàng giờ trước khi mắt thường
+có thể nhìn thấy những cánh buồm đó.
+
+41
+00:06:45,088 --> 00:06:48,354
+Rồi sau đó, khi ông quay kính
+nhìn lên bầu trời đêm...
+
+42
+00:06:48,626 --> 00:06:52,063
+...Galileo phát hiện ra rằng
+trên mặt trăng có rất nhiều núi.
+
+43
+00:06:52,731 --> 00:06:54,699
+Mộc tinh thì có mặt trăng riêng...
+
+44
+00:06:54,833 --> 00:06:58,030
+...mà Ngân hà là một dải
+gồm vô số các ngôi sao.
+
+45
+00:07:03,443 --> 00:07:06,311
+Hành trình trong không gian
+của ta bắt đầu ở đây...
+
+46
+00:07:06,513 --> 00:07:10,244
+...tại trung tâm Venice,
+Quảng trường thánh Mark.
+
+47
+00:07:16,157 --> 00:07:19,855
+Do vũ trụ quá lớn,
+ta sẽ dễ dàng mất định hướng...
+
+48
+00:07:20,463 --> 00:07:23,955
+...vì thế, ta cần có mốc để
+ta có thể ước lượng được kích thước.
+
+49
+00:07:27,003 --> 00:07:30,029
+Cái vòng này rộng 1 mét.
+
+50
+00:07:33,377 --> 00:07:37,313
+Đường kính đám đông là 10 mét.
+
+51
+00:07:37,381 --> 00:07:39,611
+Lớn hơn 10 lần, 10 mũ 1.
+
+52
+00:07:43,956 --> 00:07:47,188
+Giờ ta tăng mỗi lần một vòng...
+
+53
+00:07:47,660 --> 00:07:50,629
+...to hơn 10 lần tính từ Venice...
+
+54
+00:07:50,864 --> 00:07:54,062
+...tầm nhìn của ta về vũ trụ lớn hơn 10 lần.
+
+55
+00:07:57,471 --> 00:08:00,305
+100 từ quảng trường thánh Mark...
+
+56
+00:08:00,709 --> 00:08:04,645
+...rồi 1.000 mét, 1 km
+từ trung tâm thành phố.
+
+57
+00:08:06,882 --> 00:08:11,343
+Ta tăng tốc độ,
+4 lần, hay 10 mũ 4...
+
+58
+00:08:11,521 --> 00:08:16,550
+...đây là toàn cảnh quần đảo Venice,
+Biển Adriatic phía bắc Italia.
+
+59
+00:08:23,935 --> 00:08:28,669
+6 lần, ta thấy cả châu Âu
+từ Đức tới vùng Ban-căng.
+
+60
+00:08:32,912 --> 00:08:35,780
+và rồi, ta thấy toàn bộ hành tinh.
+
+61
+00:08:36,416 --> 00:08:38,213
+Nơi ta ở trong không gian.
+
+62
+00:08:49,998 --> 00:08:52,193
+Bước thứ 8 trên chuyến đi ra ngoài không gian...
+
+63
+00:08:52,301 --> 00:08:56,568
+...10 mũ 8, ta đã vượt qua
+nơi mà con người từng qua:
+
+64
+00:08:57,874 --> 00:08:59,034
+Mặt trăng.
+
+65
+00:09:24,871 --> 00:09:28,307
+Ta có thể mô phỏng đường đi
+của chính hành tinh...
+
+66
+00:09:28,375 --> 00:09:30,503
+...vòng quanh mặt trời...
+
+67
+00:09:31,813 --> 00:09:34,646
+...tại bước thứ 13 từ quảng trường thánh Mark...
+
+68
+00:09:35,183 --> 00:09:38,620
+...và ta thấy cả hệ mặt trời.
+
+69
+00:09:47,931 --> 00:09:51,891
+Bước thứ 15, 10 mũ 15...
+
+70
+00:09:52,603 --> 00:09:56,233
+...mặt trời giờ nhỏ xíu như một ngôi sao.
+
+71
+00:09:56,742 --> 00:10:00,508
+Kể từ đây, con đường ta đi
+tính bằng "năm ánh sáng".
+
+72
+00:10:01,113 --> 00:10:04,345
+tức là khoảng cách ánh sáng đi trong một năm.
+
+73
+00:10:06,653 --> 00:10:10,454
+Và đến bây giờ ta mới bay qua
+các ngôi sao láng giềng gần nhất...
+
+74
+00:10:11,058 --> 00:10:13,652
+...cách ta gần 5 năm ánh sáng.
+
+75
+00:10:15,262 --> 00:10:18,528
+nếu bay với tốc độ phi thuyền ngày nay...
+
+76
+00:10:18,733 --> 00:10:21,930
+...thì mất tới 100.000 năm.
+
+77
+00:10:29,078 --> 00:10:31,570
+Vượt qua bóng tối vĩnh cửu....
+
+78
+00:10:31,648 --> 00:10:35,049
+...con đường đưa ta đi xa hơn
+cách rất xa mặt trời của ta...
+
+79
+00:10:35,185 --> 00:10:38,383
+...ra tận rìa cái vòng xoáy các ngôi sao.
+
+80
+00:11:00,981 --> 00:11:03,711
+Dải Ngân hà thực ra là một thiên hà xoáy...
+
+81
+00:11:04,151 --> 00:11:08,612
+...còn mặt trời chỉ là một trong
+hàng trăm tỉ ngôi sao trong đó.
+
+82
+00:11:09,858 --> 00:11:13,590
+Với tỉ lệ khủng khiếp này, 10 mũ 23...
+
+83
+00:11:13,930 --> 00:11:16,626
+...mỗi đốm sáng kia không phải là một ngôi sao...
+
+84
+00:11:17,200 --> 00:11:21,194
+...mà là một thiên hà chứa
+vô vàn các ngôi sao.
+
+85
+00:11:22,973 --> 00:11:27,035
+Các nhà thiên văn học đã khám phá ra rằng
+các thiên hà đang ngày càng dãn ra.
+
+86
+00:11:27,846 --> 00:11:30,781
+Vũ trụ đang nở rộng.
+
+87
+00:11:32,651 --> 00:11:35,279
+thiên hà của ta,
+và các thiên hà khác...
+
+88
+00:11:35,454 --> 00:11:38,913
+...tạo thành các cụm các tổ hợp
+thiên hà vô cùng lớn...
+
+89
+00:11:39,126 --> 00:11:41,890
+...có đường kính hàng trăm triệu
+năm ánh sáng.
+
+90
+00:11:45,566 --> 00:11:49,559
+Nơi đây, cách Venice 15 tỷ năm ánh sáng...
+
+91
+00:11:50,271 --> 00:11:53,571
+...là giới hạn bên ngoài vũ trụ
+mà ta thấy được.
+
+92
+00:11:54,443 --> 00:11:59,108
+Phía ngoài ranh giới này
+là cái ta không thấy...
+
+93
+00:12:00,450 --> 00:12:02,384
+...và không biết
+
+94
+00:12:18,270 --> 00:12:22,264
+Nếu như kính viễn vọng của Galileo
+đưa ta ra ngoài không gian khám phá...
+
+95
+00:12:22,341 --> 00:12:25,572
+...thì có một phát minh khác,
+tại nơi này, thị trấn Delft ở Hà Lan...
+
+96
+00:12:25,978 --> 00:12:28,971
+....lại giúp ta có những khám phá
+theo hướng ngược lại.
+
+97
+00:12:39,862 --> 00:12:41,659
+Hơn ba thế kỷ trước...
+
+98
+00:12:41,764 --> 00:12:45,325
+...Anton van Leeuwenhoek
+đã hoàn thiện chiếc kính hiển vi đầu tiên...
+
+99
+00:12:45,601 --> 00:12:48,901
+...dùng nó để nghiên cứu các giọt nước
+trong các dòng sông Hà Lan.
+
+100
+00:13:07,660 --> 00:13:09,594
+[Lại đây, lại đằng này]
+
+101
+00:13:13,132 --> 00:13:15,533
+Học sinh ngày nay vui sướng
+với khám phá của mình thế này...
+
+102
+00:13:15,603 --> 00:13:17,969
+...thì thử hỏi xem van Leeuwenhoek
+thế nào khi...
+
+103
+00:13:18,038 --> 00:13:20,472
+...nhìn qua công cụ mạnh hơn nhiều...
+
+104
+00:13:20,541 --> 00:13:24,911
+...thấy được một vương quốc sống động
+trong một giọt nước.
+
+105
+00:13:33,122 --> 00:13:36,024
+Thế giới nhộn nhịp sinh vật đơn bào này....
+
+106
+00:13:36,360 --> 00:13:38,555
+...có đường kính chỉ 1 milimét
+
+107
+00:13:39,196 --> 00:13:42,564
+Tức là 10 mũ -3 của 1 mét.
+
+108
+00:13:46,671 --> 00:13:51,166
+Với kính hiển vi, ta tiếp tục hành trình
+vào thế giới siêu nhỏ.
+
+109
+00:13:52,645 --> 00:13:54,807
+ta vào tới nhân của tế bào...
+
+110
+00:13:55,415 --> 00:13:57,906
+.... mỗi bước đi lại mở ra một thế giới mới...
+
+111
+00:13:58,118 --> 00:14:01,748
+...nhỏ hơn 10 lần so với bước trước đó.
+
+112
+00:14:05,026 --> 00:14:07,358
+Sâu trong nhân tế bào...
+
+113
+00:14:07,428 --> 00:14:10,159
+...ta gặp các công trình xây dựng
+thực sự đáng kinh ngạc.
+
+114
+00:14:11,033 --> 00:14:14,366
+Các chuỗi ADN dài, xoắn ốc.
+
+115
+00:14:17,340 --> 00:14:19,433
+ADN chứa các mã hóa học...
+
+116
+00:14:19,509 --> 00:14:22,638
+...giúp tái tạo phần lớn các tổ chức sinh học
+trên hành tinh này....
+
+117
+00:14:23,147 --> 00:14:27,140
+... dù là sinh vật đơn bào,
+con người, hay cây cỏ.
+
+118
+00:14:34,593 --> 00:14:37,028
+tiếp tục đi sâu thêm, ta thấy rằng
+các phân tử này...
+
+119
+00:14:37,096 --> 00:14:40,031
+...được tạo bởi các yếu tố nhỏ hơn,
+gọi là nguyên tử.
+
+120
+00:14:46,306 --> 00:14:49,504
+Thế giới tí hon của nguyên tử thông thường
+lại rất lạ lùng.
+
+121
+00:14:50,612 --> 00:14:54,048
+Sáu hạt electron dường như
+có mặt ở mọi nơi cùng một lúc.
+
+122
+00:14:57,886 --> 00:15:00,218
+Giờ ta lại gặp phải khoảng không...
+
+123
+00:15:00,289 --> 00:15:03,521
+...rộng chẳng khác nào khoảng không
+giữa các ngôi sao.
+
+124
+00:15:04,995 --> 00:15:07,395
+Phía trước là nhân nguyên tử.
+
+125
+00:15:07,964 --> 00:15:09,830
+Nhỏ đến nỗi...
+
+126
+00:15:10,334 --> 00:15:13,462
+...nếu cả nguyên tử to bằng nhà hát...
+
+127
+00:15:13,537 --> 00:15:16,564
+... thì hạt nhân chỉ là một hạt bụi.
+
+128
+00:15:18,010 --> 00:15:21,639
+Nhưng hạt nhân lại chứa gần
+như toàn bộ khối lượng của nguyên tử...
+
+129
+00:15:22,214 --> 00:15:24,581
+...gói ghém trong các hạt gọi là proton...
+
+130
+00:15:24,917 --> 00:15:26,282
+...và neutrons.
+
+131
+00:15:28,054 --> 00:15:32,958
+Rồi đến các hạt này lại có cấu tạo
+bởi một thứ nhỏ hơn, bí ẩn hơn gọi là quark.
+
+132
+00:15:36,864 --> 00:15:38,298
+Khi nghiên cứu quark...
+
+133
+00:15:38,500 --> 00:15:40,627
+...ngưỡng vi mô của vũ trụ...
+
+134
+00:15:40,702 --> 00:15:43,330
+...các nhà vật lý luôn tự hỏi
+liệu quark có chứa...
+
+135
+00:15:43,405 --> 00:15:45,874
+...các phần tử vật chất
+nào khác nhỏ hơn không.
+
+136
+00:15:53,417 --> 00:15:58,378
+Các nhà khoa học đang giải mã bí ẩn này
+dưới một hầm ngầm gần Chicago...
+
+137
+00:15:59,023 --> 00:16:02,322
+...nơi đặt chiếc máy gia tốc hạt
+khổng lồ tên là Fermilab...
+
+138
+00:16:02,927 --> 00:16:08,423
+...là máy tạo ra những điều kiện giống
+như vào thời điểm sau khi vũ trụ ra đời.
+
+139
+00:16:12,172 --> 00:16:14,902
+Hàng triệu hạt protons và phản protons...
+
+140
+00:16:14,974 --> 00:16:17,704
+...bắn đi trong những cái ống này
+với chiều ngược nhau...
+
+141
+00:16:17,777 --> 00:16:22,340
+...tốc độ gần bằng tốc độ ánh sáng.
+Các hạt này sẽ va chạm với nhau.
+
+142
+00:16:51,349 --> 00:16:55,286
+Giờ thì hành trình của ta
+chuyển sang một hướng đi mới...
+
+143
+00:16:56,589 --> 00:16:58,648
+...chiều không gian...
+
+144
+00:16:58,992 --> 00:17:01,256
+...nơi những kiến thức của ta còn
+chưa vững vàng.
+
+145
+00:17:02,095 --> 00:17:05,189
+Nghiên cứu dấu tích của hạt quark
+trong những vụ va chạm này...
+
+146
+00:17:05,532 --> 00:17:09,367
+...các nhà vật lý cố tìm hiểu
+xem vũ trụ thế nào khi mới bắt đầu...
+
+147
+00:17:09,437 --> 00:17:12,566
+...ngay sau khi vụ nổ - mà ta gọi là Big Bang
+
+148
+00:17:15,577 --> 00:17:17,636
+Một trong số họ đã vạch ra lý thuyết.
+
+149
+00:17:18,547 --> 00:17:20,106
+Chào mứng tới Fermilab.
+
+150
+00:17:20,450 --> 00:17:23,180
+Ngày nay các nhà thiên văn
+thấy rằng vũ trụ đang dãn nở.
+
+151
+00:17:23,319 --> 00:17:25,753
+Hãy tưởng tượng ta quay ngược bộ phim này.
+
+152
+00:17:25,922 --> 00:17:27,390
+Cách đây hàng tỷ năm...
+
+153
+00:17:27,458 --> 00:17:30,757
+..chắc hẳn mọi thứ đều được nén
+chặt vào nhau, với mật độ vô cùng lớn.
+
+154
+00:17:30,861 --> 00:17:32,089
+có vẻ hoang đường...
+
+155
+00:17:32,196 --> 00:17:33,824
+...nhưng chúng tôi nghĩ rằng...
+
+156
+00:17:33,932 --> 00:17:37,368
+...mọi thứ ta thấy trong vũ trụ...
+
+157
+00:17:37,769 --> 00:17:41,763
+...các tòa nhà, cây cỏ, người, hành tinh......
+
+158
+00:17:42,008 --> 00:17:44,602
+...các vì sao, các thiên hà xa xôi...
+
+159
+00:17:45,211 --> 00:17:49,205
+...đều từng bị nhồi nhét vào trong
+một thể tích nhỏ hơn thế này.
+
+160
+00:17:50,117 --> 00:17:51,345
+Rồi sau đó....
+
